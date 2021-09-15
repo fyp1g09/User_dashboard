@@ -2,7 +2,7 @@
   api.addNavigationBarItem({
     name: "link-to-Questions-category",
     displayName: "movies",
-    href: "/c/Questions",
+    href: "/c/Question",
     title: "link title"
   })
 </script>
