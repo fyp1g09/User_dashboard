@@ -1,8 +1,8 @@
 <script type="text/discourse-plugin" version="0.8">
   api.addNavigationBarItem({
-    name: "link-to-movies-category",
+    name: "link-to-Questions-category",
     displayName: "movies",
-    href: "/c/movies",
+    href: "/c/Questions",
     title: "link title"
   })
 </script>
